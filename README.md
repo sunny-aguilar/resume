@@ -10,6 +10,9 @@ Find my latest resume [here](http://shorturl.at/pxJ46).
 - Medium: [https://medium.com/@sunny.aguilar](https://medium.com/@sunny.aguilar)
 
 ## Contact me
-
+- Email via sunny.aguilar@gmail.com
+- DM on [ Linkedin](https://www.linkedin.com/in/sunny-aguilar/)
 
 ## My passions are
+
+> currently live in Sacramento CA, let's meet
