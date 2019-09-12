@@ -17,5 +17,7 @@ Find my latest resume [here](http://shorturl.at/kvz68).
 - Software Engineering (web)
 - Python, Ruby, C++
 - User experience
+- Problem solving
+- Building things
 
 > currently live in Sacramento CA, let's meet :coffee:
