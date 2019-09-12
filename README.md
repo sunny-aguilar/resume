@@ -15,4 +15,4 @@ Find my latest resume [here](http://shorturl.at/pxJ46).
 
 ## My passions are
 
-> currently live in Sacramento CA, let's meet
+> currently live in Sacramento CA, let's meet :coffee:
