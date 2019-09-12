@@ -14,5 +14,8 @@ Find my latest resume [here](http://shorturl.at/pxJ46).
 - DM on [ Linkedin](https://www.linkedin.com/in/sunny-aguilar/)
 
 ## My passions are
+- Software Engineering (web)
+- Python, Ruby, C++
+- User experience
 
 > currently live in Sacramento CA, let's meet :coffee:
