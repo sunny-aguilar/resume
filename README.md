@@ -5,7 +5,7 @@ Find my latest resume [here](http://shorturl.at/pxJ46).
 
 ## More about me
 - Website: [https://www.suny.io/](https://www.suny.io/)
-- Github:
+- Github: [https://github.com/sunny-aguilar](https://github.com/sunny-aguilar)
 - Linkedin:
 - Medium
 
