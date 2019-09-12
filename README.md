@@ -1,5 +1,5 @@
 # Sandro Aguilar :sunny:
-> *10 years of leadership experience working in cross-functional teams as a team coordinator. I care about the user experience including both internal/external developer experience. Currently studying Computer Science at Oregon State University (degree 2.0)*
+> *10 years of leadership experience working in cross-functional teams as a team coordinator. I care about the user experience including both internal/external developer experience. Currently studying Computer Science at Oregon State University (degree 2.0).*
 
 Find my latest resume [here](http://shorturl.at/pxJ46).
 
