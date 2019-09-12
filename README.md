@@ -3,4 +3,12 @@
 
 Find my latest resume [here](http://shorturl.at/pxJ46).
 
-## More about me ##
+## More about me
+- Website:
+- Github:
+- Linkedin:
+- Medium
+
+## Contact me
+
+## My passions are
