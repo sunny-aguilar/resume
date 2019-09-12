@@ -1,5 +1,5 @@
 # Sandro Aguilar :sunny:
-> *Some block quote goes here that stretches a few sentences or less.*
+> *10 years of leadership experience working in teams as a team coordinator.*
 
 Find my latest resume [here](http://shorturl.at/pxJ46).
 
