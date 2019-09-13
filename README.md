@@ -3,6 +3,9 @@
 
 Find my latest resume [here](http://shorturl.at/kvz68).
 
+## Activities & Projects
+- [Hackathon](https://devpost.com/software/banking-application) - Banking app created after my first class in C++.
+
 ## More about me
 - Website: [https://www.suny.io/](https://www.suny.io/)
 - Github: [https://github.com/sunny-aguilar](https://github.com/sunny-aguilar)
