@@ -4,7 +4,7 @@
 Find my latest resume [here](http://shorturl.at/kvz68).
 
 ## Activities & Projects
-- [Blog Project]() - Repo coming soon :hourglass_flowing_sand:
+- [Blog Project](http://ajaxdapp.xyz/) - Repo coming soon :hourglass_flowing_sand:
 - [Hackathon](https://devpost.com/software/banking-application) - Banking app created after my first class in C++.
 
 ## More about me
