@@ -20,7 +20,7 @@ Find my latest resume [here](http://shorturl.at/bltWX).
 
 ## My passions are
 - Software Engineering (web)
-- Python, Ruby, C++
+- Python, Ruby, C++, JavaScript
 - User experience
 - Problem solving
 - Building things
