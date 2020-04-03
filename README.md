@@ -19,7 +19,7 @@ Find my latest resume [here](http://shorturl.at/bltWX).
 - DM on [ Linkedin](https://www.linkedin.com/in/sunny-aguilar/)
 
 ## My passions are
-- Software Engineering (web)
+- Software Engineering
 - Python, C/C++, Bash, JavaScript
 - User experience
 - Problem solving
