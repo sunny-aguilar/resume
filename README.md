@@ -1,4 +1,5 @@
 # Sandro Aguilar :sunny:
+![image](https://www.suny.io/wp-content/uploads/2020/04/personal_site_qr.png)
 > *10 years of leadership experience working in cross-functional teams as a team coordinator. I care about the user experience including both internal/external developer experience. Currently studying Computer Science at Oregon State University (degree 2.0).*
 
 Find my latest resume [here].
