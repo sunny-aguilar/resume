@@ -9,6 +9,12 @@ Find my latest resume [here].
 - [Hackathon](https://devpost.com/software/banking-application) - :trophy: 1st Place winner in C++ category, lead developer
 - [Web Scraper](https://github.com/sunny-aguilar/py-web-scraper/blob/master/scraper-github-trending.py) - Web scraper using Python
 
+## Education
+- Oregon State University (in progress, Junior year, 3.95 GPA)
+- Google IT Automation with Python Certificate
+- Google IT Support Professional Certificate
+- CSU, Sacramento, BS Business Administration
+
 ## More about me
 - Website: [https://www.suny.io/](https://www.suny.io/)
 - Github: [https://github.com/sunny-aguilar](https://github.com/sunny-aguilar)
