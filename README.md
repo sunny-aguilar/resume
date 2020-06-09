@@ -8,6 +8,7 @@ Find my latest resume [here].
 - [Blog Project](http://ajaxdapp.xyz/) - Repo coming soon :hourglass_flowing_sand:
 - [Hackathon](https://devpost.com/software/banking-application) - :trophy: 1st Place winner in C++ category, lead developer
 - [Web Scraper](https://github.com/sunny-aguilar/py-web-scraper/blob/master/scraper-github-trending.py) - Web scraper using Python
+- [Image Gallery](https://sunny-aguilar.github.io/photo-gallery-v1/) - Responsive image gallery using Bootstrap
 
 ## Education
 - Oregon State University (in progress, Junior year, 3.95 GPA)
