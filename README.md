@@ -10,6 +10,7 @@ Find my latest resume [here].
 - [Web Scraper](https://github.com/sunny-aguilar/py-web-scraper/blob/master/scraper-github-trending.py) - Web scraper using Python
 - [Image Gallery](https://sunny-aguilar.github.io/photo-gallery-v1/) - Responsive image gallery using Bootstrap
 - [Landing Page](https://sunny-aguilar.github.io/landing-page-v1/) - A beautiful landing page using Bootstrap
+- [Abstract Page](https://sunny-aguilar.github.io/landing-page-v2/) - A simple abstrct page that is full responsive using Bootstrap
 
 ## Education
 - Oregon State University (in progress, Junior year, 3.95 GPA)
