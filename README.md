@@ -30,7 +30,7 @@ Find my latest resume [here].
 
 ## My passions are
 - Software Engineering
-- Python, C/C++, Bash, JavaScript
+- Python, C/C++, Bash, JavaScript, Typescript
 - User experience
 - Problem solving
 - Building things
