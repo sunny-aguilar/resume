@@ -12,6 +12,7 @@ Find my latest resume [here].
 - [Image Gallery](https://sunny-aguilar.github.io/photo-gallery-v1/) - Responsive image gallery using Bootstrap
 - [Landing Page](https://sunny-aguilar.github.io/landing-page-v1/) - A beautiful landing page using Bootstrap
 - [Abstract Landing Page](https://sunny-aguilar.github.io/landing-page-v2/) - A simple abstrct page that is full responsive using Bootstrap
+- [Todo List](https://sunny-aguilar.github.io/todo-list-v1/) - the classic 'To Do List' web app
 
 ## Education
 - Oregon State University (in progress, Junior year, 3.95 GPA)
