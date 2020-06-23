@@ -8,7 +8,7 @@ Find my latest resume [here].
 - [Audio and Visual Experience](https://sunny-aguilar.github.io/visual-sounds-v1/) - A web app that provides you with a visual and audible experience with the keyboard 
 - [Color Squares](https://sunny-aguilar.github.io/color-squares/) - A front-end color guessing project written in Typescript.
 - [Todo List](https://sunny-aguilar.github.io/todo-list-v1/) - the classic 'To Do List' web app
-- [Blog Project](http://ajaxdapp.xyz/) - Repo coming soon :hourglass_flowing_sand:
+- [Blog Project]() - Repo coming soon :hourglass_flowing_sand:
 - [Hackathon](https://devpost.com/software/banking-application) - :trophy: 1st Place winner in C++ category, lead developer
 - [Web Scraper](https://github.com/sunny-aguilar/py-web-scraper/blob/master/scraper-github-trending.py) - Web scraper using Python
 - [Image Gallery](https://sunny-aguilar.github.io/photo-gallery-v1/) - Responsive image gallery using Bootstrap
