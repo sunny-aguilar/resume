@@ -6,13 +6,13 @@ Find my latest resume [here].
 
 ## Activities & Projects
 - [Color Squares](https://sunny-aguilar.github.io/color-squares/) - A front-end color guessing project written in Typescript.
+- [Todo List](https://sunny-aguilar.github.io/todo-list-v1/) - the classic 'To Do List' web app
 - [Blog Project](http://ajaxdapp.xyz/) - Repo coming soon :hourglass_flowing_sand:
 - [Hackathon](https://devpost.com/software/banking-application) - :trophy: 1st Place winner in C++ category, lead developer
 - [Web Scraper](https://github.com/sunny-aguilar/py-web-scraper/blob/master/scraper-github-trending.py) - Web scraper using Python
 - [Image Gallery](https://sunny-aguilar.github.io/photo-gallery-v1/) - Responsive image gallery using Bootstrap
 - [Landing Page](https://sunny-aguilar.github.io/landing-page-v1/) - A beautiful landing page using Bootstrap
 - [Abstract Landing Page](https://sunny-aguilar.github.io/landing-page-v2/) - A simple abstrct page that is full responsive using Bootstrap
-- [Todo List](https://sunny-aguilar.github.io/todo-list-v1/) - the classic 'To Do List' web app
 
 ## Education
 - Oregon State University (in progress, Junior year, 3.95 GPA)
