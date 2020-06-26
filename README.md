@@ -16,7 +16,7 @@ Find my latest resume [here].
 - [Abstract Landing Page](https://sunny-aguilar.github.io/landing-page-v2/) - A simple abstrct page that is full responsive using Bootstrap
 
 ## Education
-- Oregon State University (in progress, Junior year, 3.95 GPA)
+- Oregon State University (in progress, Junior year, 3.96 GPA)
 - Google IT Automation with Python Certificate
 - Google IT Support Professional Certificate
 - CSU, Sacramento, BS Business Administration
