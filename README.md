@@ -26,6 +26,7 @@ Find my latest resume [here].
 - Python
 - JavaScript / jQuery
 - TypeScript
+- Bash / *nix
 - Node.js / Apache
 - MongoDB / MySQL
 - HTML / CSS
