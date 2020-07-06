@@ -26,7 +26,8 @@ Find my latest resume [here].
 - Python
 - JavaScript / jQuery
 - TypeScript
-- Node.js / SQL
+- Node.js / Apache
+- MongoDB / MySQL
 - HTML / CSS
 - Bootstrap 4 / Semantic UI
 
