@@ -21,6 +21,15 @@ Find my latest resume [here].
 - Google IT Support Professional Certificate
 - CSU, Sacramento, BS Business Administration
 
+## Technologies
+- C/C++
+- Python
+- JavaScript / jQuery
+- TypeScript
+- Node.js / SQL
+- HTML / CSS
+- Bootstrap 4 / Semantic UI
+
 ## More about me
 - Website: [https://www.suny.io/](https://www.suny.io/)
 - Github: [https://github.com/sunny-aguilar](https://github.com/sunny-aguilar)
